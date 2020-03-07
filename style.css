@@ -1,0 +1,73 @@
+body { 
+	background-color: #effcef;
+	color: #333333;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 16px;
+	text-align: center;
+	background-image: url(image/feuilles.jpg);
+}
+
+
+h1,h2 {
+	color: #0c9463;
+}
+
+h1 { 
+	font-weight: 700;
+	font-family: 'Playfair Display', sans-serif;
+}
+
+h2 { 
+	font-weight: lighter;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+a { 
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: black;
+	}
+
+.container{
+	border: 2px solid ;
+	border-radius: 5px;
+	margin: 30px;
+	padding: 20px;
+	border: 400px;
+	box-shadow: 2px 2px 10px rgba(0,0,0,0.4);
+	background-color: #edffea; 
+	opacity: 0.8 ;
+
+
+
+
+}
+#photo{
+	border-radius: 30px;
+	width: 100px;
+}
+ 
+ .btn-design {
+ 	background-color: #0c9463;
+ 	color: #effcef;
+ 	border-radius: 5px;
+ 	padding: 10px 10px;
+
+ }
+
+ .list-inline li {
+ 	display: inline;
+ 	padding:50px;
+
+ }
+
+.list-inline i {
+	font-size: 50px;
+	text-align: center;
+	color: #0c9463;
+}
+
